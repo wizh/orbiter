@@ -2,8 +2,8 @@
 
 This is a simulation that attemps to imitate the Solar System using numerical analysis.
 
-## Images
-
-![alt tag](docs/animation.png)
+## Screenshots
 
 ![alt tag](docs/data.png)
+
+![alt tag](docs/animation.png)
