@@ -1,6 +1,6 @@
 # solar-simulator
 
-This is a simulation that attemps to imitate the Solar System using numerical analysis.
+solar-simulator is a simple simulation of the Solar System that uses naive numerical analysis.
 
 ## Screenshots
 
