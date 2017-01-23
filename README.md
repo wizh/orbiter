@@ -1,6 +1,6 @@
-# solar-simulator
+# orbiter
 
-solar-simulator is a simple simulation of the Solar System that uses naive numerical analysis.
+orbiter is a simple simulation of the Solar System that uses numerical analysis.
 
 ## Screenshots
 
